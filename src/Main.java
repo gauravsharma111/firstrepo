@@ -1,6 +1,6 @@
 public class Main
 {
     public static void main(String[] args) {
-        System.out.println("this is for git");
+        System.out.println("this is for the git");
     }
 }
